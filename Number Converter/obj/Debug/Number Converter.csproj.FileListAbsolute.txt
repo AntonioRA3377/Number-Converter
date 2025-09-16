@@ -1,0 +1,10 @@
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number Converter.csproj.AssemblyReference.cache
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number_Converter.Form1.resources
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number_Converter.Properties.Resources.resources
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number Converter.csproj.GenerateResource.cache
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number Converter.csproj.CoreCompileInputs.cache
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\bin\Debug\Number Converter.exe.config
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\bin\Debug\Number Converter.exe
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\bin\Debug\Number Converter.pdb
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number Converter.exe
+C:\Users\ReyAllenAntonio\source\repos\Number Converter\Number Converter\obj\Debug\Number Converter.pdb
